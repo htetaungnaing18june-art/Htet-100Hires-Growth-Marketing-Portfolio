@@ -1,44 +1,42 @@
-# Htet - 100Hires Growth Marketing Portfolio
+# 100Hires Junior Growth Marketing Specialist Portfolio Project
 
-This repository was created as the first step of the 100Hires Junior Growth Marketing Specialist portfolio project.
+This repository was created for the first step of the 100Hires Junior Growth Marketing Specialist application process.
 
 ## Tools Installed
 
-For this setup task, I worked with the following tools:
+For this project setup, I installed and used the following tools:
 
-- Cursor IDE
-- Claude Code extension in Cursor
-- Codex extension in Cursor
-- GitHub
-- Manus AI and Codex as support tools during the setup process
+- **Cursor IDE**: An AI-first code editor used to open and manage the project repository.
+- **Claude Code extension**: A Cursor extension used for AI coding assistance.
+- **Codex extension**: A Cursor extension used for AI coding assistance.
+- **GitHub**: Used to create a public repository and publish the README.md file.
+- **Manus AI and Codex**: Used as support tools to guide the setup and troubleshoot issues.
 
 ## Steps Completed
 
-1. Reviewed the project instructions from 100Hires.
-2. Created a public GitHub repository for the portfolio project.
-3. Set up the repository with a README.md file.
-4. Documented the tools installed and the steps completed.
-5. Used AI tools to help understand the setup process and troubleshoot issues.
-6. Prepared the repository link for submission.
+1. Reviewed the instructions from 100Hires.
+2. Created a public GitHub repository named `Htet-100Hires-Growth-Marketing-Portfolio`.
+3. Opened the repository setup process and prepared the README.md file.
+4. Documented the tools installed, steps completed, and issues encountered.
+5. Updated the repository with the README.md file.
+6. Prepared the GitHub README link for submission.
 
-## Issues I Ran Into
+## Issues Encountered and Solutions
 
-One issue I ran into was that Manus AI could not push directly to my GitHub repository because of a permission error. The tool did not have write access to the repository.
+### Issue
 
-## How I Solved It
+An automated tool was unable to create or push directly to the GitHub repository because it did not have the required GitHub permissions.
 
-To solve this, I manually created the public GitHub repository and updated the README.md file through GitHub. This helped me understand the repository setup process better and continue the project without waiting on the automation tool.
+### Solution
+
+I manually created the public GitHub repository and updated the README.md file through GitHub. This allowed me to complete the task while also learning more about GitHub repository setup and troubleshooting permission issues.
 
 ## What I Learned
 
-Through this step, I learned how to:
+Through this setup task, I learned how to:
 
 - Create a public GitHub repository
-- Add and edit a README.md file
-- Use AI tools for guidance while still completing manual setup steps
-- Troubleshoot permission issues when a tool cannot access GitHub
-- Document my process clearly for a portfolio project
-
-## Repository Purpose
-
-This repository will be used as a portfolio project to demonstrate my learning process, research ability, problem-solving approach, and use of AI tools in a growth marketing workflow.
+- Work with a README.md file
+- Use Cursor IDE with AI coding extensions
+- Troubleshoot permission issues with GitHub integrations
+- Use AI tools as assistants while still completing the required steps myself
