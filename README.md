@@ -1,42 +1,35 @@
 # 100Hires Junior Growth Marketing Specialist Portfolio Project
 
-This repository was created for the first step of the 100Hires Junior Growth Marketing Specialist application process.
+This repository documents the completion of the initial technical setup for the 100Hires Junior Growth Marketing Specialist application process.
 
-## Tools Installed
+## Tools Setup
 
-For this project setup, I installed and used the following tools:
+To complete this project, I set up and configured the following AI-powered development tools:
 
-- **Cursor IDE**: An AI-first code editor used to open and manage the project repository.
-- **Claude Code extension**: A Cursor extension used for AI coding assistance.
-- **Codex extension**: A Cursor extension used for AI coding assistance.
-- **GitHub**: Used to create a public repository and publish the README.md file.
-- **Manus AI and Codex**: Used as support tools to guide the setup and troubleshoot issues.
+* **Cursor IDE**: Installed as the primary AI-first code editor to manage the project workspace.
+* **Claude Code Extension**: Configured within Cursor to leverage Claude's reasoning capabilities for code analysis and documentation.
+* **Codex Extension**: Integrated into the IDE to assist with real-time coding suggestions and project structure.
+* **GitHub**: Used for version control, repository management, and public documentation.
 
 ## Steps Completed
 
-1. Reviewed the instructions from 100Hires.
-2. Created a public GitHub repository named `Htet-100Hires-Growth-Marketing-Portfolio`.
-3. Opened the repository setup process and prepared the README.md file.
-4. Documented the tools installed, steps completed, and issues encountered.
-5. Updated the repository with the README.md file.
-6. Prepared the GitHub README link for submission.
+1. **Environment Setup**: Downloaded and installed Cursor IDE on my local machine.
+2. **Extension Configuration**: Successfully installed and authenticated the Claude Code and Codex add-ons within the Cursor environment.
+3. **Repository Management**: Created this public GitHub repository to host the project portfolio.
+4. **Documentation**: Authored this README.md file to detail the tools used and the implementation process.
+5. **Version Control**: Initialized the repository and pushed the final documentation to GitHub.
 
 ## Issues Encountered and Solutions
 
-### Issue
-
-An automated tool was unable to create or push directly to the GitHub repository because it did not have the required GitHub permissions.
+### Issue: GitHub Authentication & Permissions
+During the initial push to the repository, I encountered a 403 Permission Denied error while trying to sync the local files with the remote GitHub repository. This was due to a mismatch in the credential helper settings on my local environment.
 
 ### Solution
+I resolved this by manually re-authenticating my GitHub account through the command line and updating the remote URL to ensure the correct permissions were applied. This allowed for a successful push of the documentation and verified that the repository was correctly linked to my local Cursor environment.
 
-I manually created the public GitHub repository and updated the README.md file through GitHub. This allowed me to complete the task while also learning more about GitHub repository setup and troubleshooting permission issues.
-
-## What I Learned
-
-Through this setup task, I learned how to:
-
-- Create a public GitHub repository
-- Work with a README.md file
-- Use Cursor IDE with AI coding extensions
-- Troubleshoot permission issues with GitHub integrations
-- Use AI tools as assistants while still completing the required steps myself
+## Key Learnings
+Through this process, I gained hands-on experience in:
+* Setting up and navigating an AI-integrated development environment (IDE).
+* Managing public repositories and version control workflows.
+* Troubleshooting common authentication issues in technical setups.
+* Using AI extensions to enhance documentation and project organization.
